@@ -6,7 +6,7 @@ Steps to run locally:
 Clone the repository:
 
 
-git clone https://github.com/your-username/talking-photo-app.git
+git clone [https://github.com/your-username/talking-photo-app.git](https://github.com/KANIKISINDHU/Text-to-avatar-app.git)
 cd talking-photo-app
 Install the required dependencies:
 
